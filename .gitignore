@@ -1,4 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Data files
 data/*.csv
+data/archive/
